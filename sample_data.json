@@ -1,0 +1,44 @@
+[
+  {
+    "doctor_name": "Dr. Sarah Mitchell",
+    "doctor_type": "Cardiologist",
+    "hospital": "Manchester Heart Institute",
+    "region": "United Kingdom",
+    "product_name": "CardioFlow",
+    "engagement_history": [
+      "Met during regional cardiology conference",
+      "Interested in patient adherence studies",
+      "Requested clinical efficacy comparison"
+    ],
+    "preferred_channel": "Email",
+    "interaction_goal": "Clinical data update"
+  },
+  {
+    "doctor_name": "Dr. James Wilson",
+    "doctor_type": "General Physician",
+    "hospital": "Leeds Community Clinic",
+    "region": "United Kingdom",
+    "product_name": "GlucoEase",
+    "engagement_history": [
+      "Previously attended webinar",
+      "Discussed patient compliance challenges",
+      "Requested educational brochures"
+    ],
+    "preferred_channel": "WhatsApp",
+    "interaction_goal": "Follow-up"
+  },
+  {
+    "doctor_name": "Dr. Priya Raman",
+    "doctor_type": "Oncologist",
+    "hospital": "Birmingham Cancer Centre",
+    "region": "United Kingdom",
+    "product_name": "OncoRelief",
+    "engagement_history": [
+      "Interested in latest trial data",
+      "Discussed treatment pathway improvements",
+      "Requested follow-up meeting"
+    ],
+    "preferred_channel": "In-person",
+    "interaction_goal": "Educational engagement"
+  }
+]
