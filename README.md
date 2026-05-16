@@ -6,7 +6,8 @@
 An enterprise-grade AI-powered pharmaceutical engagement dashboard built with **React**, **Tailwind CSS**, and **Google Gemini AI**. This tool helps pharmaceutical representatives prepare personalized, compliant doctor engagement strategies.
 
 ## 🔗 Live Application
-**Link:** [https://ais-pre-btbmsoopkl4saztinqojly-85305307370.europe-west1.run.app](https://ais-pre-btbmsoopkl4saztinqojly-85305307370.europe-west1.run.app)
+**Link:**   https://pharmaai-crm-assistant-975650705815.europe-west2.run.app
+
 
 ## 🚀 Features
 
@@ -58,6 +59,5 @@ In the highly regulated pharma industry, personalization is key to successful me
 - **Multi-Product Portfolios**: Managing complex product mixes per HCP.
 
 ---
-Live app URL :  https://pharmaai-crm-assistant-975650705815.europe-west2.run.app
 
 *Disclaimer: This application is a simulation and should be validated against local medical/legal compliance frameworks before real-world use.*
