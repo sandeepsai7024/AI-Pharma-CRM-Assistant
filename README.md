@@ -58,5 +58,6 @@ In the highly regulated pharma industry, personalization is key to successful me
 - **Multi-Product Portfolios**: Managing complex product mixes per HCP.
 
 ---
+Live app URL :  https://pharmaai-crm-assistant-975650705815.europe-west2.run.app
 
 *Disclaimer: This application is a simulation and should be validated against local medical/legal compliance frameworks before real-world use.*
